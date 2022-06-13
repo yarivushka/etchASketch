@@ -1,0 +1,17 @@
+body, html{
+    height: 100%; 
+}
+
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.container{
+    display: flex;
+    flex-direction: column;
+    border: 2px solid black;
+    height: 80%;
+    width: 40%;
+}
